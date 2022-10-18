@@ -12,5 +12,6 @@ public class Test {
         Employee emp=(Employee)context.getBean("e");
         emp.disp();
 
+
     }
 }
